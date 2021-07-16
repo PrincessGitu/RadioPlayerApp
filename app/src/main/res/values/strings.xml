@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioPlayerApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_recently_played">Recently Played</string>
+    <string name="title_songs">song title</string>
+    <string name="artist_name">artist name</string>
+    <string name="str_show_add">Show add</string>
+    <string name="google_Ad_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="no_internet">Network connection is not available</string>
+</resources>
